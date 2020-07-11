@@ -1,4 +1,4 @@
-package Practice;
+package Practice;  
 
 public class BuyandSell {
     void stock(int a[])
